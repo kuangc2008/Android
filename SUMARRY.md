@@ -1,6 +1,6 @@
 
 # Android
 * 自定义View
-	* [下拉刷新](CustomView/PullRefreshView.md)
+	* [下拉刷新](Android/CustomView/PullRefreshView.md)
 
 # Java
